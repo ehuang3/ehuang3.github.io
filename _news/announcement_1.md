@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2016-9-22 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Joined the PhD Program at CMU.
